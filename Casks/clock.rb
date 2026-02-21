@@ -1,6 +1,6 @@
 cask "clock" do
-  version "1.2.0"
-  sha256 "62461f6d3086223382d16b576c1eb2d49b1cc91898c9cf923b08a3313aba8692"
+  version "1.2.1"
+  sha256 "ddaa4d42a1258689e3ce70142e146a2d37aa8f8f646c09c8fcc01366a020f0ca"
 
   url "https://github.com/sven-ericmolzahn/Clock/releases/download/v#{version}/Clock.dmg"
   name "Clock"
